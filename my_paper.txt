@@ -1,4 +1,4 @@
-Author: Miao Chen, John Smith
+Author: Tom Indiana, Miao Chen, John Smith
 Title: The most awesome paper you have ever read.
 
 Abstract:
